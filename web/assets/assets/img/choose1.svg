@@ -1,0 +1,16 @@
+<svg width="180" height="237" viewBox="0 0 180 237" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.907227" y="1.07019" width="178" height="28" rx="8" transform="rotate(-0.0451804 0.907227 1.07019)" fill="#010000"/>
+<ellipse cx="19.9538" cy="60.5552" rx="19" ry="19.5" transform="rotate(-0.0451804 19.9538 60.5552)" fill="#010000"/>
+<ellipse cx="19.988" cy="103.555" rx="19" ry="19.5" transform="rotate(-0.0451804 19.988 103.555)" fill="#010000"/>
+<line x1="56" y1="62" x2="176" y2="62" stroke="#010000" stroke-width="6" stroke-linecap="round"/>
+<line x1="55.9898" y1="105.027" x2="175.99" y2="104.932" stroke="#010000" stroke-width="6" stroke-linecap="round"/>
+<rect x="1" y="135.14" width="178" height="52" rx="8" transform="rotate(-0.0451804 1 135.14)" fill="#010000"/>
+<line x1="24.0084" y1="146.622" x2="152.008" y2="146.521" stroke="white"/>
+<line x1="24.0162" y1="156.622" x2="162.016" y2="156.513" stroke="white"/>
+<line x1="24.024" y1="165.622" x2="142.024" y2="165.529" stroke="white"/>
+<line x1="24.0309" y1="174.622" x2="162.031" y2="174.513" stroke="white"/>
+<rect x="143.064" y="199.958" width="36" height="36" rx="5" transform="rotate(-0.0451804 143.064 199.958)" fill="#010000"/>
+<rect x="96.0645" y="199.995" width="35" height="36" rx="5" transform="rotate(-0.0451804 96.0645 199.995)" fill="#010000"/>
+<rect x="49.0645" y="200.032" width="35" height="36" rx="5" transform="rotate(-0.0451804 49.0645 200.032)" fill="#010000"/>
+<rect x="1.06445" y="200.07" width="36" height="36" rx="5" transform="rotate(-0.0451804 1.06445 200.07)" fill="#010000"/>
+</svg>
