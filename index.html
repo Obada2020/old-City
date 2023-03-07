@@ -14,7 +14,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/">
+  <base href="https://obada2020.github.io/old-City/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -29,7 +29,7 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>alkhan</title>
+  <title>المدينة القديمة</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
@@ -39,8 +39,60 @@
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
+  
 <body>
   <script>
+    
+<style>
+  body {
+margin: 0;
+padding: 0;
+background-color: #eee;
+}
+.loader-wrapper {
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+left: 0;
+background-color: #242f3f;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+.loader {
+background-image: url("https://i.ibb.co/VxYkQgY/logo-icon.png");
+background-size: cover;
+display: inline-block;
+width: 150px;
+height: 150px;
+position: relative;
+animation: loader 2s infinite ease;
+}
+@keyframes loader {
+0% { transform: rotate(0deg);}
+/*25% { transform: rotate(360deg);}*/
+50% { transform: rotate(360deg);}
+75% { transform: rotate(360deg);}
+100% { transform: rotate(360deg);}
+}
+
+@keyframes loader-inner {
+0% { height: 0%;}
+25% { height: 0%;}
+50% { height: 100%;}
+75% { height: 100%;}
+100% { height: 0%;}
+}
+</style>
+<body style="position: fixed; inset: 0px; overflow: hidden; padding: 0px; margin: 0px; user-select: none; touch-action: none; font: 14px sans-serif; color: red;">
+  <div class="loader-wrapper">
+    <span class="loader">
+        <span class="loader-inner">
+    </span>
+  </span>
+</div>
+ <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
