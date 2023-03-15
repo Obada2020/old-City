@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d96d00a40538266c45a4f9333506b598",
+  "assets/AssetManifest.json": "df183e79612b254cb592dec0c5bd4bbb",
 "assets/assets/animations/double_tap.json": "a6822a7137a55074abc9c8eaeb4ecced",
 "assets/assets/animations/swipe.json": "c3532a78ab92eb63ff4431c3120af644",
 "assets/assets/animations/swipe2.json": "d3733e744219a43327b8ee8a0e18a36d",
@@ -59,6 +59,7 @@ const RESOURCES = {
 "assets/assets/img/full-bottom.svg": "49e99d04f64e619fa672183ed9d48320",
 "assets/assets/img/great-mosque.jpg": "066b61a14dba3c906c827c2854023914",
 "assets/assets/img/Group%252072.svg": "292012ddfc78779048bc25dcda50ee47",
+"assets/assets/img/grunge-paper-background%25201.png": "7c203eb05701af3875f437c97e5e98df",
 "assets/assets/img/grunge-paper-background.jpg": "4da9929bcce6e5bc4e680cfd2965b730",
 "assets/assets/img/home-2.svg": "fa2e3e056b34ee7bf10baf6db3a2ee95",
 "assets/assets/img/homeSlider1-2.png": "7df8e00d65f83246e7e77c7c31c056f7",
@@ -141,6 +142,7 @@ const RESOURCES = {
 "assets/assets/img/vase1.svg": "bd0d70420b2c880ca09397ced731885f",
 "assets/assets/img/vase2.svg": "c0de739c34b23c3e56eda6209f39e068",
 "assets/assets/img/vase3.svg": "d0f53b208a2de69a4c8b9133936f2b73",
+"assets/assets/img/vintage-grunge-paper-background.png": "0924e9f79a1d676c5b40cd7122dc1f2b",
 "assets/assets/img/workshop1.png": "deb4ab73da5f24f2f462a2617bb12151",
 "assets/assets/img/workshop2.png": "30d06e99d616ba68a6c59669f46cecce",
 "assets/assets/img/workshop3.png": "9cf3ed08de585416db0a2d376d9e8791",
@@ -149,7 +151,7 @@ const RESOURCES = {
 "assets/assets/img/workshop6.png": "6d870dca12cbdb57f979d3c3fc742a72",
 "assets/FontManifest.json": "610883bf7a8941d28ce05298f1bd13b5",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "0b0c1e8ce902d0d5fff55db81ffb64aa",
+"assets/NOTICES": "bde3aa823d721edb27010417802a177a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/glass/images/noise.png": "326f70bd3633c4bb951eac0da073485d",
 "assets/packages/iconsax/lib/assets/fonts/iconsax.ttf": "071d77779414a409552e0584dcbfd03d",
@@ -163,9 +165,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cb632ac815da5f56adeed422949d2be9",
-"/": "cb632ac815da5f56adeed422949d2be9",
-"main.dart.js": "d8485e4e35036ee728273428565e4888",
+"index.html": "909da2c98efab8eec16eac2284815ed2",
+"/": "909da2c98efab8eec16eac2284815ed2",
+"main.dart.js": "be04eeacf32b1e8af95a1df8e2e73883",
 "manifest.json": "5c06f07dd11a326e87d88529372138e6",
 "version.json": "9f2298d3a052d541cf1afc73a31d8207"
 };
